@@ -14,3 +14,4 @@ FlappyConsoleApp/.vs/FlappyConsoleApp/v17/Browse.VC.db-shm
 *.json
 *.opendb
 *.db-wal
+*.db
