@@ -1,0 +1,16 @@
+
+*.vsidx
+FlappyConsoleApp/.vs/FlappyConsoleApp/v17/.suo
+FlappyConsoleApp/.vs/FlappyConsoleApp/v17/Browse.VC.db
+FlappyConsoleApp/.vs/FlappyConsoleApp/v17/Browse.VC.db-shm
+*.tlog
+*.pdb
+*.idb
+*.obj
+*.recipe
+*.ilk
+*.log
+*.ipch
+*.json
+*.opendb
+*.db-wal
